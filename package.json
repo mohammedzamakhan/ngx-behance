@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.5",
     "color-namer": "^1.4.0",
     "core-js": "^3.2.1",
-    "rxjs": "~6.5.3",
+    "rxjs": "~6.6.7",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
